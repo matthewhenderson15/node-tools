@@ -1,0 +1,23 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewhenderson15/node-tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/matthewhenderson15/node-tools/issues"
+  },
+  "homepage": "https://github.com/matthewhenderson15/node-tools#readme"
+}
