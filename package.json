@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/matthewhenderson15/node-tools/issues"
   },
-  "homepage": "https://github.com/matthewhenderson15/node-tools#readme"
+  "homepage": "https://github.com/matthewhenderson15/node-tools#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
 }
